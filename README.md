@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm David, an IT Professional👋
 
 <!--
 **davidstavin/davidstavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
