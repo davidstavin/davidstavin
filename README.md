@@ -2,8 +2,12 @@
 
 ## 👨‍💻 Information Technology Projects:
 
-- #### osTicket (Help Desk Ticketing System)
+### Finished Projects
   - [osTicket: Installation and Deployment on Windows 11 using Azure, IIS, PHP, and MySQL](https://github.com/davidstavin/osticket-prereqs)
+
+### Developing Projects
+- #### osTicket (Help Desk Ticketing System)
+
   - [osTicket: Post-Installation Configuration](https://github.com/davidstavin/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/davidstavin/ticket-lifecycle)
 - #### Microsoft Azure
